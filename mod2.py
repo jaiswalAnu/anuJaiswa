@@ -1,0 +1,1 @@
+print(f"Rununintg mod2 -({__name__})")
